@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Billy</h1>
 
 ## 👋 About Me:
-Halo Guyss!!!
+Halo Guyss!!
 
 ## 🌐 Socials:
-- TikTok: [@Haeruliga](https://www.tiktok.com/@Haeruliga)
+- TikTok: [@zzz_billy](https://www.tiktok.com/@zzz_billy)
 
 ## 🛠 Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![zzzbilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzbilly&show_icons=true&theme=dark)
